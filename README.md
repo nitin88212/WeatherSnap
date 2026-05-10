@@ -25,7 +25,6 @@ Command-line debug build:
 ```bash
 ./gradlew :app:assembleDebug
 ```
-<img width="576" height="1280" alt="Saved Report" src="https://github.com/user-attachments/assets/8edd2ba6-0a8e-4645-b0ac-c6d02d69b969" />
 
 The debug APK is generated at:
 
