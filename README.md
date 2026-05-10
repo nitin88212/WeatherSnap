@@ -25,6 +25,7 @@ Command-line debug build:
 ```bash
 ./gradlew :app:assembleDebug
 ```
+<img width="576" height="1280" alt="Saved Report" src="https://github.com/user-attachments/assets/8edd2ba6-0a8e-4645-b0ac-c6d02d69b969" />
 
 The debug APK is generated at:
 
@@ -42,3 +43,15 @@ app/build/outputs/apk/debug/app-debug.apk
 6. Enter notes.
 7. Save the report.
 8. Verify the saved reports list shows the report.
+
+Screenshots 📸
+<img width="576" height="1280" alt="Home1" src="https://github.com/user-attachments/assets/0f59c1bd-97a9-427b-896d-353153016da4" />
+<img width="576" height="1280" alt="Location_Search" src="https://github.com/user-attachments/assets/e91bb8bc-99d8-4ed8-ab21-5dc5c4a0e21f" />
+<img width="576" height="1280" alt="Result" src="https://github.com/user-attachments/assets/06a100b6-84c2-47d0-8aae-0cdb37ba4ccf" />
+![Uploading Saved Report.jpeg…]()
+<img width="576" height="1280" alt="Create_report" src="https://github.com/user-attachments/assets/17df0fda-1734-42d6-a8f2-ee8290770de4" />
+<img width="576" height="1280" alt="Report" src="https://github.com/user-attachments/assets/de120d44-6512-4531-8a2b-bda0353be183" />
+
+
+
+
